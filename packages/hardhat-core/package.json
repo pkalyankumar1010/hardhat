@@ -120,7 +120,7 @@
     "ethereum-cryptography": "^1.0.3",
     "ethereumjs-abi": "^0.6.8",
     "find-up": "^5.0.0",
-    "fp-ts": "1.19.3",
+    "fp-ts": "1.19.5",
     "fs-extra": "^7.0.1",
     "immutable": "^4.0.0-rc.12",
     "io-ts": "1.10.4",
